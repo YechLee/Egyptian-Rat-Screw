@@ -13,7 +13,7 @@ class gameTest extends AnyFunSpec with Matchers {
             Menu.advancePlayerOrder should be(expectedResult)
         }
 
-        /*** ADVANCE ORDER ***/
+        /*** ADVANCE ORDER ***/ 
         it("can advance the player order"){
             val expectedResult = "Apple, Banana, Strawberry, Mango"
             Menu.advancePlayerOrder should be(expectedResult)
