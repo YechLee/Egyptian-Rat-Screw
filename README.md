@@ -38,3 +38,4 @@ Project-specific details:
 
     Slap Simulation:
         In real life, the slap rule winner would be based on whoever has the fastest reflexes and can slap the pile first. To simulate that, each player will have a randomly generated number between 0.1 and 1.5, which represents the time (in seconds) it takes to "slap" the pile. Whoever has the lowest number wins the round. 
+
